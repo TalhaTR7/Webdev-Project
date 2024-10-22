@@ -11,3 +11,4 @@ function Comp2() {
 }
 
 export default Comp2
+// code

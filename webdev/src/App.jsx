@@ -1,4 +1,4 @@
-import {BrowserRouter as Route, Routes, Router} from 'react-router-dom'
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import React from 'react'
 import Services from "./services.jsx"
 

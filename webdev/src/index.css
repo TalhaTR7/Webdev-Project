@@ -75,3 +75,22 @@ p {
         text-align: center; /* Center text in links */
     }
 }
+
+ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  li {
+    padding: 10px;
+    margin: 5px 0; /* Space between items */
+    border: 1px solid #ddd; /* Border around each item */
+    border-radius: 4px; /* Rounded corners */
+    background-color: #ffffff; /* White background for items */
+    transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effects */
+  }
+  
+  li:hover {
+    background-color: #e9ecef; /* Light gray background on hover */
+    transform: scale(1.02); /* Slightly increase size on hover */
+  }

@@ -3,7 +3,7 @@ import React from "react"
 function About() {
 
     return (
-        <div class="container">
+        <div className="container">
             <h1>About Us</h1>
             <img src="src/assets/RMA.png" alt="Profile Image" class="profile-img" />
             <p>
